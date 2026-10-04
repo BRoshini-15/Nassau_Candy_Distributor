@@ -29,6 +29,7 @@ An interactive **Streamlit** dashboard that analyzes sales, profitability, produ
   - [▶️ Usage](#️-usage)
   - [📊 Key Metrics](#-key-metrics)
   - [⚠️ Data Quality Note](#️-data-quality-note)
+  - [🖼 Screenshots](#-screenshots)
   - [👩‍💻 Author](#-author)
 
 ---
@@ -210,6 +211,21 @@ Then open the URL shown in your terminal (usually `http://localhost:8501`).
 ## ⚠️ Data Quality Note
 
 The supplied dataset contains **unusually large differences between Order Date and Ship Date**. The calculated date gap (`Shipping Lead Time`) should therefore **not be interpreted as a validated standard delivery duration**. It is used here only for relative comparison between routes, regions, states, and ship modes.
+
+---
+
+## 🖼 Screenshots
+
+> Add screenshots of your dashboard here.
+
+```md
+![Executive Dashboard](Screenshots/Executive_Dashboard.jpg)
+![Route Efficiency](Screenshots/Route_Efficiency.jpg)
+![Geographic Analysis](Screenshots/Geographic_Analysis.jpg)
+![Shipping_Analysis](Screenshots/Shipping_Analysis.jpg)
+![Product_Factory_Analysis](Screenshots/Product_Factory_Analysis.jpg)
+![Order_Drill-Down](Screenshots/Order_Drill-Down.jpg)
+```
 
 ---
 
